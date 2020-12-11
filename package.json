@@ -1,0 +1,17 @@
+{
+  "name": "emotion-classic",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel index.js"
+  },
+  "keywords": [],
+  "author": "Billy Janitsch <billy@kensho.com> (https://billyjanitsch.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/preset-react": "^7.12.7",
+    "@emotion/babel-preset-css-prop": "^11.0.0"
+  }
+}

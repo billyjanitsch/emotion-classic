@@ -1,0 +1,6 @@
+{
+  "presets": [
+    ["@babel/preset-react", { "development": true }],
+    "@emotion/babel-preset-css-prop"
+  ]
+}
